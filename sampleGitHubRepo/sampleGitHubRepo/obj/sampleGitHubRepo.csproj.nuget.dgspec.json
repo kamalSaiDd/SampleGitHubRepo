@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saika\\source\\repos\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj": {}
+    "C:\\Users\\saika\\source\\repos\\SampleGitRepoActual\\SampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saika\\source\\repos\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj": {
+    "C:\\Users\\saika\\source\\repos\\SampleGitRepoActual\\SampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saika\\source\\repos\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj",
+        "projectUniqueName": "C:\\Users\\saika\\source\\repos\\SampleGitRepoActual\\SampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj",
         "projectName": "sampleGitHubRepo",
-        "projectPath": "C:\\Users\\saika\\source\\repos\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj",
+        "projectPath": "C:\\Users\\saika\\source\\repos\\SampleGitRepoActual\\SampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo.csproj",
         "packagesPath": "C:\\Users\\saika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saika\\source\\repos\\sampleGitHubRepo\\sampleGitHubRepo\\obj\\",
+        "outputPath": "C:\\Users\\saika\\source\\repos\\SampleGitRepoActual\\SampleGitHubRepo\\sampleGitHubRepo\\sampleGitHubRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saika\\AppData\\Roaming\\NuGet\\NuGet.Config",
