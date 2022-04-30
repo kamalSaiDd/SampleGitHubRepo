@@ -11,7 +11,7 @@ namespace sampleGitHubRepo
 {
     public class Program
     {
-        // test to check if my commits are pushing to git hub2.
+        // test to check if my commits are pushing to git hub3.
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
